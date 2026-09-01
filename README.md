@@ -14,12 +14,12 @@
 
 | 模型名称       | 预报时效   | 模型内核          | 推理框架 |
 | -------------- | ---------- | ----------------- | -------- |
-| FourCastNet    | 短、中期   | 数据驱动          | Pytorch  |
-| FourCastNet V2 | 短、中期   | 数据驱动          | Pytorch  |
-| Aurora         | 中期       | 数据驱动          | Pytorch  |
-| GraphCast      | 中期       | 数据驱动          | Jax      |
-| GenCast        | 中期       | 数据驱动          | Jax      |
-| NowcastNET     | 临近（3h） | 数据驱动+物理规律 | Pytorch  |
+| [FourCastNet](https://github.com/MetaX-MACA/WeatherForecast/tree/main/short-range-forecast/FourCastNet)    | 短、中期   | 数据驱动          | Pytorch  |
+| [FourCastNet V2](https://github.com/MetaX-MACA/WeatherForecast/tree/main/short-range-forecast/FourCastNetV2) | 短、中期   | 数据驱动          | Pytorch  |
+| [Aurora](https://github.com/MetaX-MACA/WeatherForecast/tree/main/short-range-forecast/Aurora)         | 中期       | 数据驱动          | Pytorch  |
+| [GraphCast](https://github.com/MetaX-MACA/WeatherForecast/tree/main/short-range-forecast/GraphCast)      | 中期       | 数据驱动          | Jax      |
+| [GenCast](https://github.com/MetaX-MACA/WeatherForecast/tree/main/short-range-forecast/GenCast)        | 中期       | 数据驱动          | Jax      |
+| [NowcastNET](https://github.com/MetaX-MACA/WeatherForecast/tree/main/nowcasting/NowcastNET)     | 临近（3h） | 数据驱动+物理规律 | Pytorch  |
 
 > 更多模型和应用正在持续适配与添加中，敬请关注。
 
